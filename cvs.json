@@ -1,0 +1,21 @@
+{
+  cvs_recibidos: [{"nombre":"Jonh Doe",
+  "profesion":"Programador",
+  "edad":25,
+  "lenguajes":["PHP","Javascript","Dart"],
+  "disponibilidadParaViajar":true,
+  "rangoProfesional": {
+      "aniosDeExperiencia": 12,
+      "nivel": "Senior"
+  }},
+  {"nombre":"Jonh Doe",
+  "profesion":"Programador",
+  "edad":25,
+  "lenguajes":["PHP","Javascript","Dart"],
+  "disponibilidadParaViajar":true,
+  "rangoProfesional": {
+      "aniosDeExperiencia": 12,
+      "nivel": "Senior"
+  }}
+  ]
+}
