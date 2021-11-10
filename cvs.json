@@ -1,5 +1,5 @@
 {
-  cvs_recibidos: [{"nombre":"Jonh Doe",
+  "cvs_recibidos": [{"nombre":"Jonh Doe",
   "profesion":"Programador",
   "edad":25,
   "lenguajes":["PHP","Javascript","Dart"],
