@@ -1,12 +1,12 @@
 [
 
-  {"pc": 1, "so": "Linux", "alumno": "Alumno 1", "encendido": "true"},
-  {"pc": 2, "so": "Linux", "alumno": "Alumno 2", "encendido": "false"},
-  {"pc": 3, "so": "Lliurex", "alumno": "Alumno 3", "encendido": "true"},
-  {"pc": 4, "so": "Linux", "alumno": "Alumno 4", "encendido": "false"},
-  {"pc": 5, "so": "Lliurex", "alumno": "Alumno 5", "encendido": "true"},
-  {"pc": 6, "so": "Lliurex", "alumno": "Alumno 6", "encendido": "false"},
-  {"pc": 7, "so": "Linux", "alumno": "Alumno 7", "encendido": "false"},
-  {"pc": 8, "so": "Linux", "alumno": "Alumno 8", "encendido": "true"}
+  {"pc": 1, "so": "Linux", "alumno": "Alumno 1", "encendido": true},
+  {"pc": 2, "so": "Linux", "alumno": "Alumno 2", "encendido": false},
+  {"pc": 3, "so": "Lliurex", "alumno": "Alumno 3", "encendido": true},
+  {"pc": 4, "so": "Linux", "alumno": "Alumno 4", "encendido": false},
+  {"pc": 5, "so": "Lliurex", "alumno": "Alumno 5", "encendido": true},
+  {"pc": 6, "so": "Lliurex", "alumno": "Alumno 6", "encendido": false},
+  {"pc": 7, "so": "Linux", "alumno": "Alumno 7", "encendido": false},
+  {"pc": 8, "so": "Linux", "alumno": "Alumno 8", "encendido": true}
 
 ]
