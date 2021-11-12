@@ -1,6 +1,6 @@
 [
 
-  {"pc": 1, "so": "Linux", "alumno": "Alumno 1", "encendido": false},
+  {"pc": 1, "so": "Linux", "alumno": "Alumno 1", "encendido": true},
   {"pc": 2, "so": "Linux", "alumno": "Alumno 2", "encendido": false},
   {"pc": 3, "so": "Lliurex", "alumno": "Alumno 3", "encendido": true},
   {"pc": 4, "so": "Linux", "alumno": "Alumno 4", "encendido": false},
